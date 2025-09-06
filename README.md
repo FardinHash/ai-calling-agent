@@ -2,6 +2,11 @@
 
 A real-time voice AI system that integrates OpenAI's Realtime API with Twilio Voice to create intelligent voice conversations. Perfect for customer service, compliance monitoring, and automated calling systems.
 
+## Branches
+
+- **[main](https://github.com/intellwe/ai-calling-agent/tree/main)** - OpenAI Realtime API version (streaming, low latency)
+- **[llama3](https://github.com/intellwe/ai-calling-agent/tree/llama3)** - Llama3 via Together AI (traditional, cost-effective)
+
 ## Features
 
 - **Real-time Voice Processing** - Instant speech recognition and response
@@ -24,16 +29,16 @@ A real-time voice AI system that integrates OpenAI's Realtime API with Twilio Vo
 
 1. **Clone the repository**
 
-   ```bash
+```bash
    git clone https://github.com/intellwe/ai-calling-agent.git
    cd ai-calling-agent
-   ```
+```
 
 2. **Install dependencies**
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+```bash
+pip install -r requirements.txt
+```
 
 3. **Configure environment**
 

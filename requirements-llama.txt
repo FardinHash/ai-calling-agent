@@ -1,0 +1,7 @@
+# Core dependencies for Llama3 version
+fastapi
+uvicorn
+pydantic
+python-dotenv
+twilio
+together
